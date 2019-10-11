@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KotlinProject.iml" filepath="$PROJECT_DIR$/KotlinProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bowonlee.iml" filepath="$PROJECT_DIR$/.idea/modules/bowonlee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bowonlee_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bowonlee_main.iml" group="bowonlee" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bowonlee_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bowonlee_test.iml" group="bowonlee" />
+    </modules>
+  </component>
+</project>
